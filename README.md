@@ -2,7 +2,7 @@
 # Week 05: my To-Do-List
 
 ## Author
-- **Name:** gladwell Muthoni
+- **Name:** Gladwell Muthoni
 - **GitHub:** [@gladwellmuthoni](https://github.com/gladwellmuthoni)
 - **Date:** July 17, 2026
 
@@ -39,4 +39,4 @@ Solution: Added a logic check to remove the .active class from all buttons befor
 C:\Users\Administrator\Downloads\screenShort.png
 
 ## Live Demo (if deployed)
-[View Live Demo](https://your-deployed-url.com)
+https://gladwellmuthoni.github.io/iyf-s11-week-05-gladwellmuthoni/
