@@ -1,0 +1,19 @@
+#todo-list li { 
+    cursor: pointer; 
+    display: flex; 
+    justify-content: space-between;
+    padding: 10px; 
+}
+#todo-list li.completed .text { 
+    text-decoration: line-through;
+    color: gray; 
+}
+.filter.active { 
+    font-weight: bold; 
+    border: 2px solid blue; }
+.delete-btn { 
+    display: none;
+}
+#todo-list li:hover .delete-btn {
+     display: block; 
+    }
